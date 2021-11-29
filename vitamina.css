@@ -1,0 +1,42 @@
+body {
+    background-color: #e3d8e7;
+}
+h1  {
+    text-align: center;
+    background-color: #21022d;
+    color: rgb(247, 247, 247); 
+    margin: 0px;
+    background-color:#21022d;
+    margin-top: 34px;
+}
+
+    
+p {
+    text-align: center;
+    background-color: #21022d;
+    color: rgb(247, 247, 247);
+    margin: 0px
+    
+}
+
+h2 {
+    margin-top: 16px;
+    margin-left: 16px;
+    margin: 20px;
+    margin: 25px;
+    
+}
+p {
+    color: #e3d8e7;
+}
+h3 {
+    margin: 60px;
+   width:150%;
+   height: 150%;
+   background-image: none;
+
+}
+img {
+    width: 18%;
+    margin-left: 64px;
+}
